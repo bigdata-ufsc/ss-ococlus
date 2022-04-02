@@ -1,0 +1,1 @@
+dataset;metric;cc_reference;num_of_candidates;num_of_clusters;avg_std_cv_rows;avg_std_cv_cost;num_of_groupped_elements;avg_std_cv_seq_len;avg_std_cv_relative_rows_compression;avg_std_cv_num_of_users;overall_entropy
